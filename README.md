@@ -5,7 +5,7 @@ This is my personal GitHub account, where I will upload various software enginee
 Please, do not hesitate to contact me regarding project initiatives or other relevant and interesting topics!
 
 Best wishes,
-Alex
+Alex.
 
 <!---
 alexmyportfolio/alexmyportfolio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
